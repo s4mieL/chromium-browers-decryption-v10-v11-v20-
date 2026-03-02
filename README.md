@@ -64,4 +64,4 @@ Chromium-based browsers use versioned encryption schemes to protect stored data 
 
 ---
 
-*Last updated: 2025*
+*Last updated: 2026*
